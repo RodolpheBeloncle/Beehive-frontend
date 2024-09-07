@@ -28,6 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-./vs
+.vs/
 ./package-lock.json
 node_modules/
